@@ -4,7 +4,7 @@ title      : Mohammad Febri Ramadlan
 type       : participant-remote
 job-title  : IT Security Consultant
 project-leader: OWASP Risk Rating Management Project Leader
-chapter-leader: Jakarta/Indonesia
+chapter-leader: OWASP Jakarta/Indonesia
 expenses        : ???
 funded          : ???
 funded-who      : ???
@@ -13,12 +13,11 @@ flight-cost     : ???
 ticket-cost     : ???
 funded-amount   : ???
 required-funds  : ???
-image : https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAWoAAAAJDkyZWQwM2ZmLWQ2M2MtNDVhNi04MGJlLTFjOGQ5ODUwMTE5NQ.jpg
+image : https://yt3.ggpht.com/-rT0aG7w_R0E/AAAAAAAAAAI/AAAAAAAAAAA/AtDxtHKwIgw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
 status     : update-content
 ---
 
-Mohammad Febri Ramadlan (Ebi) is Open Source Enthusiast and OWASP Contributor. Beside of that, He am OWASP Risk Rating Management Project Leader
-I'm also happy to contribute and participate in any other sessions that other contributors/leaders would like join in.
+Mohammad Febri Ramadlan (Ebi) is Open Source Enthusiast and OWASP Contributor. Beside of that, He is OWASP Risk Rating Management Project Leader. Also he is happy to contribute and participate in any other sessions that other contributors/leaders would like join in.
 
 * OWASP Project: https://www.owasp.org/index.php/OWASP_Risk_Rating_Management
 * Blog: https://www.mohammadfebri.wordpress.com
